@@ -5,7 +5,7 @@
 ### Seeing and Imagining as One: Unified Video Generation and 4D Perception for Embodied World Modeling
 
 [![Project Page](https://img.shields.io/badge/Project-Page-2FAF9E)](https://gensight-rbs.github.io/)
-[![arXiv](https://img.shields.io/badge/arXiv-coming%20soon-b31b1b)](#)
+[![arXiv](https://img.shields.io/badge/arXiv-2610.39232-b31b1b)](https://arxiv.org/abs/2610.39232)
 
 <img src="assets/teaser.jpg" width="100%" alt="GenSight teaser"/>
 
