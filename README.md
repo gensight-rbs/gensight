@@ -123,9 +123,13 @@ depth, respectively.
 ## Citation
 
 ```bibtex
-@misc{feng2027gensight,
-  title  = {Seeing and Imagining as One: Unified Video Generation and 4D Perception for Embodied World Modeling},
-  author = {Haitang Feng and Zhuoman Liu and Zhennan Wang and Sheng Wang and Juelin Li and Chengzhi Zhao and Hexiang Wei and Lin Shao},
-  year   = {2027}
+@misc{feng2026seeingimaginingoneunified,
+      title={Seeing and Imagining as One: Unified Video Generation and 4D Perception for Embodied World Modeling},
+      author={Haitang Feng and Zhuoman Liu and Zhennan Wang and Sheng Wang and Juelin Li and Chengzhi Zhao and Hexiang Wei and Lin Shao},
+      year={2026},
+      eprint={2610.39232},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2610.39232},
 }
 ```
